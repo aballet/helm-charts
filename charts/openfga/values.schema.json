@@ -931,7 +931,7 @@
                         "enable": {
                             "type": "boolean",
                             "description": "Enable/disable the hook for the migration job",
-                            "default": false
+                            "default": true
                         },
                         "hook": {
                             "type": "string",
